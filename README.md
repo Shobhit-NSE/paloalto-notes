@@ -17,13 +17,13 @@ practical takeaways, useful commands, and interview preparation notes.
 ### 1. PAN-OS Fundamentals
  -Firewall architecture and core components
  
- -Interfaces, zones, and virtual routers
-
  -Management plane and data plane
 
  -GUI Dashboard 
 
-### 2. Security Policies
+### 2. Security Policies, Interfaces, Zones
+ -Interfaces, zones, and virtual routers
+
 -Overview of Security Policy structure and matching
 
 -Policy Logging and traffic verification
